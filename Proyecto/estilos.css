@@ -2,23 +2,23 @@
     color: white;
     font-family:Arial, Helvetica, sans-serif;
     text-align: justify;
+    justify-items: center;
     
 }
 .titulo {
     text-align: center;
-
-    
+    align-content: center;
 }
-.redes {
-    display: flex;
+.redes,
+.icono {
     height: 100%;
+    
     
 }
 .paisaje {
     box-sizing: border-box;
     color: white;
     max-width: 320px;
-    background-color: yellow;
 }
 .icono {
     border-radius: 50%;
