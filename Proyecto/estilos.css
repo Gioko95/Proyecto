@@ -9,8 +9,17 @@
 
     
 }
-.imagen {
-    border-radius: 50%;
+.redes {
     display: flex;
-    flex-direction: row;
+    height: 100%;
+    
+}
+.paisaje {
+    box-sizing: border-box;
+    color: white;
+    max-width: 320px;
+    background-color: yellow;
+}
+.icono {
+    border-radius: 50%;
 }
