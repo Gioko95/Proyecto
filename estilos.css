@@ -18,6 +18,7 @@ body {
     box-sizing: border-box;
     color: white;
     max-width: 320px;
+    border-radius: 50%;
 }
 .icono {
     border-radius: 50%;
@@ -64,6 +65,11 @@ body {
 .texto3 {
     display: flex;
     border-radius: 50%;
-    row-gap: 50px;
-    padding-left: 10pxg;
-}   
+    row-gap: 100px;
+    padding-left: 15px;
+}
+
+#bungee{
+    justify-items: center;
+    background-color: aqua;
+}
