@@ -29,6 +29,7 @@ body {
     box-sizing: border-box;
     border-color: black;
     text-align: center;
+    border-radius: 50%;
 }
 #texto {
     margin-left: 10px;
@@ -64,5 +65,5 @@ body {
     display: flex;
     border-radius: 50%;
     row-gap: 50px;
-    padding-left: 10px;
+    padding-left: 10pxg;
 }   
